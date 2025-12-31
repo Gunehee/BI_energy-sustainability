@@ -20,13 +20,8 @@ After you enable GitHub Pages, your public URL will look like:
 
 A polished write-up that matches the dashboard visuals:
 
-- `report/Energy_Sustainability_BI_Report.pdf`
+- report/Energy_Sustainability_BI_Report.pdf
 
 ## Preview
 
 ![Dashboard preview](img/dashboard_preview.png)
-
-## Notes
-
-- The demo uses a small illustrative dataset to showcase BI storytelling and dashboard craftsmanship.
-- For a production-grade portfolio upgrade, replace the demo dataset with public sources (e.g., Our World in Data, World Bank, IEA) and document your transformation steps.
