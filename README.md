@@ -16,7 +16,7 @@ An interactive, Power BI-like dashboard that tells a simple story about **decarb
 
 ## Report
 
-[Report](Energy_Sustainability_BI_Report.pdf)
+[Report](Energy_Sustainability_BI_Report_v2.pdf)
 
 ## Preview
 
