@@ -4,8 +4,6 @@ An interactive, Power BI-like dashboard that tells a simple story about **decarb
 
 ## Live dashboard (GitHub Pages)
 
-After you enable GitHub Pages, your public URL will look like:
-
 ![Repository]([https://<YOUR_GITHUB_USERNAME>.github.io/<REPO_NAME>/](https://gunehee.github.io/BI_energy-sustainability/))
 
 ## What you can do in the dashboard
@@ -17,8 +15,6 @@ After you enable GitHub Pages, your public URL will look like:
   3) GDP vs CO2 per capita (2024 cross-section)
 
 ## Report
-
-A polished write-up that matches the dashboard visuals:
 
 ![Report](Energy_Sustainability_BI_Report.pdf)
 
