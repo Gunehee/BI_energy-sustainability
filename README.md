@@ -24,7 +24,7 @@ A polished write-up that matches the dashboard visuals:
 
 ## Preview
 
-![Dashboard preview](img/dashboard_preview.png)
+
 
 ## Notes
 
