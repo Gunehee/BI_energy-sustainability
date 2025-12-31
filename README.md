@@ -4,7 +4,7 @@ An interactive, Power BI-like dashboard that tells a simple story about **decarb
 
 ## Live dashboard (GitHub Pages)
 
-![Repository]([https://<YOUR_GITHUB_USERNAME>.github.io/<REPO_NAME>/](https://gunehee.github.io/BI_energy-sustainability/))
+![Repository]([https://gunehee.github.io/BI_energy-sustainability/])
 
 ## What you can do in the dashboard
 
