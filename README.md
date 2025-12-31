@@ -6,7 +6,7 @@ An interactive, Power BI-like dashboard that tells a simple story about **decarb
 
 After you enable GitHub Pages, your public URL will look like:
 
-`https://<YOUR_GITHUB_USERNAME>.github.io/<REPO_NAME>/`
+![Repository](https://<YOUR_GITHUB_USERNAME>.github.io/<REPO_NAME>/)
 
 ## What you can do in the dashboard
 
@@ -20,7 +20,7 @@ After you enable GitHub Pages, your public URL will look like:
 
 A polished write-up that matches the dashboard visuals:
 
-- report/Energy_Sustainability_BI_Report.pdf
+![Report](report/Energy_Sustainability_BI_Report.pdf)
 
 ## Preview
 
